@@ -9,7 +9,7 @@ using the IXP infrastructure instead their transit providers. We found a mean sy
 
 Our method and results are described in the paper 
 
-<b>"On the Asymmetry of Internet eXchange Points - What You See Is Not Always What You Get" (in peer review process)</b>
+**"On the Asymmetry of Internet eXchange Points"** (in peer review process)
 
 You can download our colected datasets (Verploter files) for each day we measure using the links below (every file 1GB) :
 
