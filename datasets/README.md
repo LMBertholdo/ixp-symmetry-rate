@@ -5,7 +5,7 @@ Each daily dataset contains a less specific and more specific experiment for eac
 We also include pinger variations, information about peering related information, 
 and the IXP hitlist routing table each day result tables. 
 
-File **2022-04-17_asy** include extra-tests we explain in *Challenge section* on paper.
+File **2022-04-17_asy** include extra-tests we explain in **Challenge section** on paper.
 
 
 
