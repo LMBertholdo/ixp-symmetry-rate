@@ -9,7 +9,7 @@ using the IXP infrastructure instead their transit providers. We found a mean sy
 
 Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
 
-You can download our colected datasets in https://github.com/LMBertholdo/ixp-symmetry-rate/datasets. Each day have 1GB size.
+You can download our colected datasets here (https://github.com/LMBertholdo/ixp-symmetry-rate/tree/main/datasets). Each day have 1GB size.
 
 # The following file list represent the files types of one measurement day in our dataset:
 
