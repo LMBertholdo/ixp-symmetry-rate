@@ -1,4 +1,6 @@
 # On the Asymmetry of Internet eXchange Points
+### This is part of PAADDoS project (https://paaddos.nl)
+#### This work is funded by the Netherlands Organisation for Scientific Research(628.001.029) and CONCORDIA(830927).
 
 In this repository we provide the tools and datasets we used to measure the symmetry rate of five internet exchanges: 
 AMS-IX, IX.br/SP, IX.br/RS, LINX, and SIX.
