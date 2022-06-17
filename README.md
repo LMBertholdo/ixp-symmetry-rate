@@ -9,9 +9,9 @@ using the IXP infrastructure instead their transit providers. We found a mean sy
 
 Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
 
-You can download our colected datasets (Verploter files) for each day we measure using the links below (every file 1GB) :
+You can download our colected datasets here (https://https://github.com/LMBertholdo/ixp-symmetry-rate/datasets). Each day have 1GB size.
 
-# The following file list represent the files types of one measurement day:
+# The following file list represent the files types of one measurement day in our dataset:
 
 <pre>
 2022-05-08
