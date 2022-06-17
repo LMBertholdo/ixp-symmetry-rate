@@ -7,13 +7,9 @@ AMS-IX, IX.br/SP, IX.br/RS, LINX, and SIX.
 The symmetry rate reflects the willingness of all IXP participants to deliver traffic traffic to other participants 
 using the IXP infrastructure instead their transit providers. We found a mean symmetry rate of 85% for this five IXPs.
 
-Our method and results are described in the paper 
-
-**"On the Asymmetry of Internet eXchange Points"** (in peer review process)
+Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
 
 You can download our colected datasets (Verploter files) for each day we measure using the links below (every file 1GB) :
-
-
 
 # The following file list represent the files types of one measurement day:
 
