@@ -19,16 +19,20 @@ The as_classification.cvs provides a classification for all connected on the IXP
 <i>date,method,ixp,nei_net24,nei_net23,nei_asn24,nei_asn23,qt_net_sym24,qt_net_sym23,qt_net_asy24_in,qt_net_asy23_in,qt_net_asy24_out,qt_net_asy23_out,qt_asn_sym24,qt_asn_sym23,qt_asn_asy24_in,qt_asn_asy23_in,qt_asn_asy24_out,qt_asn_asy23_out,qt_asn_hib24,qt_asn_hib23,qt_asn_onlydiscard24,qt_asn_onlydiscard23,qt_asn_nonetworks24,qt_asn_nonetworks23</i>
 
 
-Environment Setting
-Operational system
-Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
+# How to execute
 
-installers
-MySQL Community: (package\Installer\mysql-installer-community-8.0.29.0)
-MySQL Workbench 8.0 CE: (package\Installer\mysql-workbench-community-8.0.29-winx64)
-Java (JRE 1.0.0_291): (package\Installer\JavaSetup8u331)
-Pentaho Data Integration 9: (package\Installer\pdi-ce-9.2.0.0-290)
-Power BI Desktop: (package\Installer\PBIDesktopSetup_x64)
+The code was generated using the free version of Microsoft POWER BI and MySQL running on windows. We used this option to make more straighforward and 
+able to autodocument the step-by-step process of classification.
+More details on how the classifier works can be found here https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view
+While the process of loading data can be slow (some hours) the 
+
+### Environment Setting
+* Install over Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
+** MySQL Community: (package\Installer\mysql-installer-community-8.0.29.0)
+** MySQL Workbench 8.0 CE: (package\Installer\mysql-workbench-community-8.0.29-winx64)
+** Java (JRE 1.0.0_291): (package\Installer\JavaSetup8u331)
+** Pentaho Data Integration 9: (package\Installer\pdi-ce-9.2.0.0-290)
+** Power BI Desktop: (package\Installer\PBIDesktopSetup_x64)
 
 
 MySQL Simplified Setup
