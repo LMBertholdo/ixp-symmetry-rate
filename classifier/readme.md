@@ -32,14 +32,13 @@ able to autodocument the step-by-step process of classification.
 
 More details on system implementation can be found [HERE](https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view)
 
-
 ### Environment Setting
-* Install over Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
-* MySQL Community: (package\Installer\mysql-installer-community-8.0.29.0)
-* MySQL Workbench 8.0 CE: (package\Installer\mysql-workbench-community-8.0.29-winx64)
-* Java (JRE 1.0.0_291): (package\Installer\JavaSetup8u331)
-* Pentaho Data Integration 9: (package\Installer\pdi-ce-9.2.0.0-290)
-* Power BI Desktop: (package\Installer\PBIDesktopSetup_x64)
+Install over Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
+* [MySQL Community](https://dev.mysql.com/downloads/mysql/)
+* [MySQL Workbench 8.0 CE](https://dev.mysql.com/downloads/workbench/)
+* [Java (JRE 1.0.0_291)](https://www.oracle.com/br/java/technologies/javase/javase8u211-later-archive-downloads.html)
+* [Pentaho Data Integration 9](https://sourceforge.net/projects/pentaho/files/Pentaho-9.2/client-tools/pdi-ce-9.2.0.0-290.zip/download)
+* [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 
 ### MySQL Simplified Setup
