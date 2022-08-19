@@ -1,3 +1,21 @@
+This code implements the verfploter datasets classification
+
+### Dataset input files (each dataset file contains all the three files.)
+* The Verfploter dataset (eg. IXP-Asymmetry-24_SITE-br-gru_PINGER-us-mia_DRAIN-nl-ens#ipv4,gru,ens_2022-05-02-20h59m.csv.gz)
+* The compiled hitlist routing table for each IXP (eg. 2022-05-01_hitlist_ixroute.csv.gz)
+* Details of each BGP session on the IXP (eg. 2022-05-02_peerinfo_nl-ams_amsix.csv.gz)
+
+### Output (generated files)
+* Individual AS classification summary (e.g. 2022-05-09-as_classification.csv)
+The as_classification.cvs provides a classification for all connected on the IXP, providing the following fields:
+date,asn,is_up_and_open,ixp,as_name,type,method,count_of_as,total_nets,total_discarded_nets,total_nets_without_discards
+<b>Type</b> refers to how the AS has been classified (symmetric, asymmetric, hybrid)
+<b>Method</b> of measurement used (asym-24 or asym-23) related to prefix size on drain (/24 or /23)
+
+* Detailed result table (result_table_ases_up_and_open.csv) in the following format
+date,method,ixp,nei_net24,nei_net23,nei_asn24,nei_asn23,qt_net_sym24,qt_net_sym23,qt_net_asy24_in,qt_net_asy23_in,qt_net_asy24_out,qt_net_asy23_out,qt_asn_sym24,qt_asn_sym23,qt_asn_asy24_in,qt_asn_asy23_in,qt_asn_asy24_out,qt_asn_asy23_out,qt_asn_hib24,qt_asn_hib23,qt_asn_onlydiscard24,qt_asn_onlydiscard23,qt_asn_nonetworks24,qt_asn_nonetworks23
+
+
 Environment Setting
 Operational system
 Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
