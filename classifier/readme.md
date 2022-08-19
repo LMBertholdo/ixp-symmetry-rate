@@ -21,7 +21,8 @@ The as_classification.cvs provides a classification for all connected on the IXP
 <i>date,method,ixp,nei_net24,nei_net23,nei_asn24,nei_asn23,qt_net_sym24,qt_net_sym23,qt_net_asy24_in,qt_net_asy23_in,qt_net_asy24_out,qt_net_asy23_out,qt_asn_sym24,qt_asn_sym23,qt_asn_asy24_in,qt_asn_asy23_in,qt_asn_asy24_out,qt_asn_asy23_out,qt_asn_hib24,qt_asn_hib23,qt_asn_onlydiscard24,qt_asn_onlydiscard23,qt_asn_nonetworks24,qt_asn_nonetworks23</i>
 
 # Classification Algorithm
-Here you can find details about the algorithm we used to classify AS symmetry based on its networks prefixes
+In this document you can find details about the algorithm we used to classify AS symmetry based on its networks prefixes
+
 [AS Classification Algorithm](https://github.com/LMBertholdo/ixp-symmetry-rate/classifier/algorithm.pdf)
 
 # How to execute
