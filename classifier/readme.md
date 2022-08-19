@@ -1,9 +1,11 @@
 # This code implements the verfploter datasets classification
 
-### Dataset input files (each dataset file contains all the three files.)
+### Dataset input files
 * The Verfploter dataset (eg. IXP-Asymmetry-24_SITE-br-gru_PINGER-us-mia_DRAIN-nl-ens#ipv4,gru,ens_2022-05-02-20h59m.csv.gz)
 * The compiled hitlist routing table for each IXP (eg. 2022-05-01_hitlist_ixroute.csv.gz)
 * Details of each BGP session on the IXP (eg. 2022-05-02_peerinfo_nl-ams_amsix.csv.gz)
+
+Each provider dataset on the datasetset folder contains each on of the three files needed.
 
 ### Output (generated files)
 * Individual AS classification summary (e.g. 2022-05-09-as_classification.csv)
