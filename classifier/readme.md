@@ -9,6 +9,7 @@ This code implements the verfploter datasets classification
 * Individual AS classification summary (e.g. 2022-05-09-as_classification.csv)
 The as_classification.cvs provides a classification for all connected on the IXP, providing the following fields:
 date,asn,is_up_and_open,ixp,as_name,type,method,count_of_as,total_nets,total_discarded_nets,total_nets_without_discards
+
 <b>Type</b> refers to how the AS has been classified (symmetric, asymmetric, hybrid)
 <b>Method</b> of measurement used (asym-24 or asym-23) related to prefix size on drain (/24 or /23)
 
