@@ -23,13 +23,13 @@ The as_classification.cvs provides a classification for all connected on the IXP
 # Classification Algorithm
 In this document you can find details about the algorithm we used to classify AS symmetry based on its networks prefixes
 
-[AS Classification Algorithm]([https://github.com/LMBertholdo/ixp-symmetry-rate/classifier/algorithm.pdf](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/classifier/algorithm.pdf)
+[AS Classification Algorithm](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/classifier/algorithm.pdf)
 
 # How to execute
 
 The code was generated using the free version of Microsoft POWER BI and MySQL running on windows. We used this option to make more straighforward and 
 able to autodocument the step-by-step process of classification.
-More details on how the classifier works can be found (here)[https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view]
+More details on system implementation can be found [HERE](https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view)
 While the process of loading data can be slow (some hours) the 
 
 ### Environment Setting
