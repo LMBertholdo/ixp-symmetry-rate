@@ -1,4 +1,6 @@
-# This code implements the verfploter datasets classification
+# This code implements the Asymmetry classification
+
+![alt text](./powerbi.jpg)
 
 ### Dataset input files
 * The Verfploter dataset (eg. IXP-Asymmetry-24_SITE-br-gru_PINGER-us-mia_DRAIN-nl-ens#ipv4,gru,ens_2022-05-02-20h59m.csv.gz)
@@ -23,7 +25,7 @@ The as_classification.cvs provides a classification for all connected on the IXP
 
 The code was generated using the free version of Microsoft POWER BI and MySQL running on windows. We used this option to make more straighforward and 
 able to autodocument the step-by-step process of classification.
-More details on how the classifier works can be found here https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view
+More details on how the classifier works can be found (here)[https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view]
 While the process of loading data can be slow (some hours) the 
 
 ### Environment Setting
