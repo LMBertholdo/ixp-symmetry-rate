@@ -12,8 +12,8 @@ Each provider dataset on the datasetset folder contains each on of the three fil
 The as_classification.cvs provides a classification for all connected on the IXP, providing the following fields:
 date,asn,is_up_and_open,ixp,as_name,type,method,count_of_as,total_nets,total_discarded_nets,total_nets_without_discards
 
-<b>Type</b> refers to how the AS has been classified (symmetric, asymmetric, hybrid), and 
-<b>Method</b> refers the measurement method used: asym-24 or asym-23, indicating the drain prefix size used (/24 or /23)
+<b>Type</b> refers to how the AS has been classified (<i>symmetric, asymmetric, hybrid</i>), and 
+<b>Method</b> refers the measurement method used: <i>asym-24 or asym-23</i>, indicating the drain prefix size used (/24 or /23)
 
 * Detailed result table (result_table_ases_up_and_open.csv) in the following format
 date,method,ixp,nei_net24,nei_net23,nei_asn24,nei_asn23,qt_net_sym24,qt_net_sym23,qt_net_asy24_in,qt_net_asy23_in,qt_net_asy24_out,qt_net_asy23_out,qt_asn_sym24,qt_asn_sym23,qt_asn_asy24_in,qt_asn_asy23_in,qt_asn_asy24_out,qt_asn_asy23_out,qt_asn_hib24,qt_asn_hib23,qt_asn_onlydiscard24,qt_asn_onlydiscard23,qt_asn_nonetworks24,qt_asn_nonetworks23
