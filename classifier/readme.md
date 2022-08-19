@@ -30,7 +30,7 @@ In this document you can find details about the algorithm we used to classify AS
 The code was generated using the free version of Microsoft POWER BI and MySQL running on windows. We used this option to make more straighforward and 
 able to autodocument the step-by-step process of classification.
 More details on system implementation can be found [HERE](https://drive.google.com/file/d/12DuFpPkxqi7pp3SPX0vsX1kerW_L_QHQ/view)
-While the process of loading data can be slow (some hours) the 
+
 
 ### Environment Setting
 * Install over Windows 10, Windows Server 2012 R2, Windows Server 2012, Windows 8, Windows 8.1, Windows Server 2016, Windows Server 2019, Windows 11
