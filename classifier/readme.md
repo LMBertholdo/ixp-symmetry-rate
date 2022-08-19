@@ -23,7 +23,7 @@ The as_classification.cvs provides a classification for all connected on the IXP
 # Classification Algorithm
 In this document you can find details about the algorithm we used to classify AS symmetry based on its networks prefixes
 
-[AS Classification Algorithm](https://github.com/LMBertholdo/ixp-symmetry-rate/classifier/algorithm.pdf)
+[AS Classification Algorithm]([https://github.com/LMBertholdo/ixp-symmetry-rate/classifier/algorithm.pdf](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/classifier/algorithm.pdf)
 
 # How to execute
 
