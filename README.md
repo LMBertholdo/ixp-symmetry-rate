@@ -8,8 +8,12 @@ The symmetry rate reflects the willingness of all IXP participants to deliver tr
 using the IXP infrastructure instead their transit providers. We found a mean symmetry rate of 85% for this five IXPs.
 
 Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
+In this repository you can find three folders:
+* Analize: contains python notebook data analize and graphs we used in the paper
+* Classifier: Software we used to process datasets and generate intermediary files for data-analyze
+* Dataset: datasets collected using measurement process descripted in the paper.
 
-You can download our colected datasets here (https://github.com/LMBertholdo/ixp-symmetry-rate/tree/main/datasets). Each day have 1GB size.
+You can download our colected datasets IN (https://github.com/LMBertholdo/ixp-symmetry-rate/tree/main/datasets). Each day have 1GB size.
 
 # The following file list represent the files types of one measurement day in our dataset:
 
