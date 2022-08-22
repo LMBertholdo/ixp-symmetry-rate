@@ -12,9 +12,10 @@ The figure below show the traffic graph of one IXP participant we defined as "De
 ![alt text](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/deaf.jpeg)
 
 Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
+
 In this repository you can find three folders:
 * Analize: contains python notebook data analize and graphs we used in the paper
-* Classifier: Software we used to process datasets and generate intermediary files for data-analyze
+* Classifier: Software we develop to process datasets and generate intermediary files for data-analyze
 * Dataset: datasets collected using measurement process descripted in the paper.
 
 You can download our colected datasets IN (https://github.com/LMBertholdo/ixp-symmetry-rate/tree/main/datasets). Each day have 1GB size.
