@@ -7,6 +7,10 @@ AMS-IX, IX.br/SP, IX.br/RS, LINX, and SIX.
 The symmetry rate reflects the willingness of all IXP participants to deliver traffic traffic to other participants 
 using the IXP infrastructure instead their transit providers. We found a mean symmetry rate of 85% for this five IXPs.
 
+The figure below show the traffic graph of one IXP participant we defined as "Deaf neighbor" - he connects to the IXP just to receive traffic, never returning any traffic back to another participant. We established a new methodology to detect and quantify the traffic asymmetry to IXP participants.
+ 
+![alt text](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/deaf.jpeg)
+
 Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (in peer review process)
 In this repository you can find three folders:
 * Analize: contains python notebook data analize and graphs we used in the paper
