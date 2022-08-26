@@ -31,7 +31,7 @@ In this document you can find details about the algorithm we used to classify AS
 The code was generated using the free version of Microsoft POWER BI and MySQL running on windows. We used this option to make more straighforward and 
 able to autodocument the step-by-step process of classification.
 
-More details on system implementation can be found [HERE](http://atom.poa.ifrs.edu.br/index.php/nawr-73rr-b42m)add
+More details on system implementation can be found [HERE](http://atom.poa.ifrs.edu.br/index.php/nawr-73rr-b42m)
 
 ### Requirements and environment settings
 Requirements: MySQL Community, MySQL Workbench, Pentaho Data Integration, Java JRE and PowerBI.
