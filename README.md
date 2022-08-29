@@ -11,7 +11,7 @@ The figure below show the traffic graph of one IXP participant we defined as **"
  
 ![alt text](https://github.com/LMBertholdo/ixp-symmetry-rate/blob/main/deaf.jpeg)
 
-Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (to be presented in [CNSM 2022](http://cnsm-conf.org/2022/){:target="_blank" rel="noopener"})
+Our method and results are described in the paper **"On the Asymmetry of Internet eXchange Points"** (to be presented in [CNSM 2022](http://cnsm-conf.org/2022/))
 
 In this repository you can find three folders:
 * Analize: contains python notebook data analize and graphs we used in the paper
